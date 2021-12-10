@@ -1,0 +1,16 @@
+
+
+#gr, #dgr{
+  width: 100px;
+  height: 2em;
+  line-height: 2em;
+  text-align: center;
+}
+
+#gr {
+  background-color: gray;
+}
+
+#dgr {
+  background-color: darkgray;
+}
